@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TransparentSystemBars" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- 核心系统栏配置 -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+        <!-- 强制全屏布局 -->
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+
+
+
+    </style>
+
+
+
+</resources>

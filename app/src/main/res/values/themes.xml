@@ -5,5 +5,6 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.YiJie2" parent="Base.Theme.YiJie2" />
+    <style name="Theme.YiJie2" parent="Base.Theme.YiJie2" >
+    </style>
 </resources>
